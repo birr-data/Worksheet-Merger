@@ -1,2 +1,2 @@
 # Worksheet-Merger
-VBA Excel utility to merge match data from different worksheets
+VBA Excel utility to merge records from different worksheets
